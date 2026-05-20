@@ -1,4 +1,4 @@
-# <p align="center">[亲测可用] 2026 年国内开通 ChatGPT Plus 的几种方法教程, 支持支付宝/微信代充 Codex\GPT Plus Pro </p>
+# <p align="center">[亲测可用] 2026 年国内代充充值 ChatGPT Plus 的几种方法教程, 支持支付宝/微信 Codex\GPT Plus Pro </p>
 
 <p align="center">本教材最新更新时间：2026年5月15日, 安全可用</p>
 
