@@ -108,11 +108,11 @@
 - **充值模式：** 全自助充值，**不需要你提供 ChatGPT 账号密码**。隐私这一关从源头就堵死了，别人想偷你账号都没机会。
 - **覆盖范围：** 安卓/iOS/网页/桌面端全平台通用，升级后哪儿都能登。
 - **售后：** 充值失败原路退款；账号端如果出问题，客服会跟进处理，不是付完款就消失那种。
-- **入口直白：** 官网 <a href="https://getgpt.pro/i/github01" target="_blank" rel="noopener">https://getgpt.pro/</a> 套餐和价格都明牌挂着，不需要先加客服微信再"谈"。
+- **入口直白：** 官网 <a href="https://getgpt.pro/i/github01" target="_blank" rel="noopener"> GETGPT 充值</a> 套餐和价格都明牌挂着，不需要先加客服微信再"谈"。
 
 **操作流程也简单到离谱：**
 
-1. 打开 <a href="https://getgpt.pro/i/github01" target="_blank" rel="noopener">https://getgpt.pro/</a>
+1. 打开 <a href="https://getgpt.pro/i/github01" target="_blank" rel="noopener">GETGPT Pro</a> 
 2. 选你要的套餐(plus\pro 等都支持）
 3. 用支付宝或微信付款
 4. 按页面提示完成账号绑定 → 几秒后回 ChatGPT 刷新一下，Plus 标识就出来了
