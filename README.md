@@ -1,6 +1,6 @@
-# <p align="center">[亲测可用] 2026 年国内代充充值 ChatGPT 的几种方法教程, 支持支付宝微信 Codex\GPT Plus Pro </p>
+# <p align="center">[亲测可用] 2026年ChatGPT充值教程, 支持国内支付宝微信代充Plus、Pro、Codex等 </p>
 
-<p align="center">本教材最新更新时间：2026年6月, 安全可用</p>
+<p align="center">本教材最新更新时间：2026年6月20, 安全可用</p>
 
 ![2026年最新 ChatGPT Plus 充值教程封面](./image/chatgpt-plus-cover.png)
 
