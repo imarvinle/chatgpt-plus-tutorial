@@ -1,4 +1,4 @@
-# <p align="center">[亲测可用] 2026年ChatGPT充值教程, 支持国内支付宝微信代充Plus、Pro、Codex等 </p>
+# <p align="center">[亲测可用] 2026年ChatGPT代充值教程, 支持国内支付宝微信代充Plus、Pro、Codex等 </p>
 
 <p align="center">本教材最新更新时间：2026年6月20, 安全可用</p>
 
