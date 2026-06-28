@@ -1,6 +1,6 @@
 # <p align="center">[亲测可用] 2026年ChatGPT代充教程, 支持支付宝和微信充值 GPT Plus、Pro、Codex等 </p>
 
-<p align="center">本教材最新更新时间：2026年6月24, 官方渠道，安全可用</p>
+<p align="center">本教材最新更新时间：2026年6月28, 官方渠道，安全可用</p>
 
 ![2026年最新 ChatGPT Plus 充值教程封面](./image/chatgpt-plus-cover.png)
 
@@ -8,7 +8,7 @@
 
 ## 国内用户 GPT 充值，经常会卡在哪些地方？
 
-很多国内用户在使用 ChatGPT、GPT Plus、GPT Pro 或 Codex 相关功能时，真正麻烦的地方往往不是不会用 GPT，而是卡在 **GPT 充值** 这些订阅开通环节。
+很多国内用户在使用 ChatGPT、GPT Plus、GPT Pro 或 Codex 相关功能时，真正麻烦的地方往往不是不会用 GPT，而是卡在 **GPT代充、充值** 这些订阅开通环节。
 
 常见问题包括：
 
