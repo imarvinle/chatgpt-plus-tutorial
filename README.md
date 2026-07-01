@@ -1,6 +1,6 @@
 # <p align="center">[亲测可用] 2026年最新ChatGPT代充教程, 支持支付宝和微信充值 GPT Plus、Pro、Codex等 </p>
 
-<p align="center">本教材最新更新时间：2026年6月28, 官方渠道，安全可用</p>
+<p align="center">本教材最新更新时间：2026年7月1, 官方渠道，安全可用</p>
 
 ![2026年最新 ChatGPT Plus 充值教程封面](./image/chatgpt-plus-cover.png)
 
